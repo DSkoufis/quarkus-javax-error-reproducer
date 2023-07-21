@@ -1,0 +1,7 @@
+quarkus:
+  lambda:
+    handler: priceInjectionFailureNotifier
+  aws:
+    devservices:
+      localstack:
+        image-name: localstack/localstack:2.1
