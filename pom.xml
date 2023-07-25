@@ -51,6 +51,11 @@
       <artifactId>moneta-core</artifactId>
       <version>1.4.2</version>
     </dependency>
+    <dependency>
+      <groupId>org.acme</groupId>
+      <artifactId>jakarta-transformer-extension</artifactId>
+      <version>0.0.1-SNAPSHOT</version>
+    </dependency>
   </dependencies>
 
   <build>
